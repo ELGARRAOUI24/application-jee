@@ -2,3 +2,6 @@
 <h3>Créer une application Web JEE basée sur Spring, Spring Data JPA, Hibernate, Tymeleaf et Spring Security qui permet de gérer des produits</h3>
 <h4>Tester la couche DAO</h4>
 <img src="./img/testCoucheDAO.png">
+
+<h4>Consultation H2 Console</h4>
+<img src="./img/H2Console.png">
