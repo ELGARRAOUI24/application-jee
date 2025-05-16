@@ -22,7 +22,7 @@ public class Product {
     @Size(min = 3, max = 50)
     private String name;
     @Min(1)
-    private Double quantity;
+    private int quantity;
     @Min(0)
     private Double price;
 }
