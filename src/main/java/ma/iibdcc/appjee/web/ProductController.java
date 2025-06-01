@@ -22,10 +22,18 @@ public class ProductController {
         return "products";
     }
 
+    @GetMapping("/")
+    public String home()
+    {
+        return "redirect:/index";
+    }
+
     @GetMapping("/delete")
     public String delete(@RequestParam(name="id") Long id)
     {
         productRepository.deleteById(id);
         return "redirect:/index";
     }
+
+
 }

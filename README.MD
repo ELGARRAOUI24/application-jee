@@ -14,3 +14,6 @@
 <img src="./img/deleteConfirm.png">
 
 <img src="./img/delete.png">
+
+<h4>Ajout d'une page template</h4>
+<img src="./img/pageTemplate.png">
