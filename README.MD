@@ -5,3 +5,7 @@
 
 <h4>Consultation H2 Console</h4>
 <img src="./img/H2Console.png">
+
+<h3>Création le contrôleur spring MVC et les vues thymeleaf</h3>
+<h4>Affichage la liste des produits</h4>
+<img src="./img/listProduct.png">
