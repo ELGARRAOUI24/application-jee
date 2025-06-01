@@ -9,3 +9,8 @@
 <h3>Création le contrôleur spring MVC et les vues thymeleaf</h3>
 <h4>Affichage la liste des produits</h4>
 <img src="./img/listProduct.png">
+
+<h4>Suppression d'un produit</h4>
+<img src="./img/deleteConfirm.png">
+
+<img src="./img/delete.png">
