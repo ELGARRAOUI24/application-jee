@@ -17,3 +17,8 @@
 
 <h4>Ajout d'une page template</h4>
 <img src="./img/pageTemplate.png">
+
+<h4>Ajout un nouveau produit avec la validation du formulaire</h4>
+<img src="./img/validateForm.png">
+<img src="./img/addProduct.png">
+<img src="./img/newProduct.png">
