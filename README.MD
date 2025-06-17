@@ -22,3 +22,9 @@
 <img src="./img/validateForm.png">
 <img src="./img/addProduct.png">
 <img src="./img/newProduct.png">
+
+<h3>Sécurisation de l'application avec Sring Security</h3>
+<img src="./img/login.png">
+<img src="./img/accountUser.png">
+<img src="./img/accountAdmin.png">
+<img src="./img/notAuthorized.png">
